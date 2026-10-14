@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"gamble"</Description>
+      <LastState Value="" RealAddress="002FFFFE"/>
+      <GroupHeader>1</GroupHeader>
+      <Address>002FFFFE</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"chip12"</Description>
+          <LastState Value="3276850" Activated="1" RealAddress="17D5D6C6"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>17D5D6C6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"chip34"</Description>
+          <LastState Value="3276850" Activated="1" RealAddress="17D5D6CA"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>17D5D6CA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"chip56"</Description>
+          <LastState Value="3276850" Activated="1" RealAddress="17D5D6C2"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>17D5D6C2</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"power"</Description>
+      <LastState Value="18350" RealAddress="17D5D6B6"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>17D5D6B4+2</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"money"</Description>
+      <LastState Value="30001" Activated="1" RealAddress="17D5D6B4"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>17D5D6B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"battle bar"</Description>
+      <LastState Value="4000" Activated="1" RealAddress="06ECEC22"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>06ECEC22</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"battle bar"</Description>
+      <LastState Value="32000" Activated="1" RealAddress="17D5DC00"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>17D5DC00</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
